@@ -1,0 +1,29 @@
+{
+  "name": "bt-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeDuy20/nodejs__blog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "leduy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeDuy20/nodejs__blog/issues"
+  },
+  "homepage": "https://github.com/LeDuy20/nodejs__blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
